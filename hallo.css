@@ -28,7 +28,7 @@ body {background-color:rgb(0, 0, 0);
 
 #torre {position: absolute;
         left:1180px;
-        border:1px solid rgba(255, 255, 255, 0.575);
+        border:1px solid rgba(255, 255, 255, 0);
         width:80px;
         height:150px;}
 
