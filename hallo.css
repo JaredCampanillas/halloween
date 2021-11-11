@@ -22,17 +22,17 @@ body {background-color:rgb(0, 0, 0);
         font-size: 4em;}
 
 #p2 {font-size: 2em;
-    text-shadow: 5px 0px 1px rgba(35, 85, 51, 0.665);
+    text-shadow: 5px 0px 1px rgba(35, 85, 51, 0);
     padding:20px 0 0 200px;
          }
 
 #torre {position: absolute;
-        left:1080px;
+        left:1180px;
         border:1px solid rgba(255, 255, 255, 0.575);
         width:80px;
         height:150px;}
 
 #bats {position: absolute;
-        left:1200px;
+        left:1180px;
         width: 260px;
         visibility: hidden;}
